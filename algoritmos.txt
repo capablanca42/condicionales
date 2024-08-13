@@ -1,0 +1,10 @@
+Ejercicios en clase 
+1) Diseñe el algoritmo que determina si un número es positivo . Use condiciones simples 
+-Analisis si un numero es mayor que cero.
+2)Diseñe si el algoritmo es par.El algoritmo debe imprimir el número e indicar si un numero es par.
+El algoritmo debe imprimir el numero e indicar si es par. Use condición simple.
+- Analisis: si al dividir el numero  para 2, el residuo es 0 entonces es par  
+3)una variable de pasw almacena informacion de una palabra 
+secreta. diseñe un algoritmo que se solicita al 
+usuario una clave y determina si el acceso es correcto o no .
+si es correcto se escribe el mensaje "BIENVENIDO AL SIATEMA", de lo contrario se muestra el mensaje "ERROR  DE ACCESO"
